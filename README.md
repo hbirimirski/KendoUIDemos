@@ -1,0 +1,2 @@
+# KendoUIDemos
+Just for demo
